@@ -21,5 +21,6 @@ Sem sombra de dúvidas, em um futuro breve, todos os campos de trabalho estarão
 
 
 ## Projetos:
+* **Análise dos dados do AirBnb em Los Angeles - DSNP:** https://bit.ly/3crnhEf
 
 
