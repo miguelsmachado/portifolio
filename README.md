@@ -16,7 +16,7 @@ Sem sombra de dúvidas, em um futuro breve, todos os campos de trabalho estarão
 **Background in:** Eletrônica, Python, Data Science, Machine Learning, Pentesting e Oficial do Exército Brasileiro.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/miguel-machado-6655511a6/)
+* [LinkedIn](https://www.linkedin.com/in/miguel-s-machado/)
 * [Medium](https://medium.com/@miguelsmachado)
 
 
