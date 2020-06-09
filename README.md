@@ -24,4 +24,5 @@ Sem sombra de dúvidas, em um futuro breve, todos os campos de trabalho estarão
 * **Análise dos dados do AirBnb em Los Angeles - DSNP:** https://bit.ly/3eQOcLc
 * **Análise de Mídias Sociais (Twitter):** https://bit.ly/3dy0AQ1
 * **Previsões sobre o preço de imóveis:** https://bit.ly/3gYjPEB
+* **Analisando a violência no Rio de Janeiro:** https://bit.ly/3f7IPrs
 
