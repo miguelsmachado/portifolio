@@ -27,5 +27,7 @@ Sem sombra de dúvidas, em um futuro breve, todos os campos de trabalho estarão
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/3f7IPrs
 * **Panorama do COVID-19 no mundo e no Brasil:** https://bit.ly/37XSiPL
 * **Modelo de Machine Learning para análise de fraudes em cartões de crédito:** https://bit.ly/2VikGH6
+* **Algoritimos não supervisionados e Modelos de recomendação:** https://bit.ly/2VikGH6
+
 * **Notebooks do livro "Approaching (almost) any machine learning problem:** https://bit.ly/3mPWPJx
 
